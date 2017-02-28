@@ -2141,7 +2141,7 @@ abominate===abominate;abominated;abominates;abominating;
 twinge===twinge;twinged;twinges;
 upcheer===upcheer;upcheered;upcheering;upcheers;
 growse===growse;growsed;growses;
-be===be;been;was;were;
+be===be;been;was;were;is;
 defamiliarise===defamiliarise;
 porcelainize===porcelainize;porcelainized;porcelainizes;porcelainizing;
 frock===frock;frocked;
